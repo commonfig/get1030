@@ -1,0 +1,699 @@
+Singapore,United States
+Singapore,United States
+Singapore,United States
+Singapore,United States
+Singapore,United States
+Singapore,United States
+Singapore,United States
+Singapore,United States
+Singapore,United States
+Singapore,Malaysia
+Singapore,Malaysia
+Singapore,Malaysia
+Singapore,Malaysia
+Singapore,Malaysia
+Singapore,Malaysia
+Singapore,Malaysia
+Singapore,Malaysia
+Singapore,Malaysia
+Singapore,France
+Singapore,France
+Singapore,France
+Singapore,France
+Singapore,France
+Singapore,France
+Singapore,France
+Singapore,United Kingdom
+Singapore,United Kingdom
+Singapore,United Kingdom
+Singapore,United Kingdom
+Singapore,United Kingdom
+Singapore,United Kingdom
+Singapore,United Kingdom
+Singapore,China
+Singapore,China
+Singapore,China
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Canada
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,Mexico
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,France
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,United Kingdom
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+United States,Thailand
+Malaysia,Australia
+Malaysia,Australia
+Malaysia,Australia
+Malaysia,Australia
+Malaysia,Australia
+Malaysia,Australia
+Malaysia,United States
+Malaysia,United States
+Malaysia,United States
+Malaysia,United States
+Malaysia,United States
+Malaysia,Indonesia
+Malaysia,Indonesia
+Malaysia,Indonesia
+Malaysia,Thailand
+Malaysia,Thailand
+Malaysia,Thailand
+Malaysia,Argentina
+Malaysia,Argentina
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Netherlands
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Germany
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Belgium
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,Italy
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+France,United Kingdom
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,France
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Ireland
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Netherlands
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Germany
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+United Kingdom,Italy
+China,Peru
+China,Peru
+China,Peru
+China,Peru
+China,Peru
+China,Peru
+China,Peru
+China,Peru
+China,Peru
+China,Peru
+China,United States
+China,United States
+China,United States
+China,United States
+China,United States
+China,United States
+China,Japan
+China,Japan
+China,Japan
+China,Zimbabwe
+China,Zimbabwe
+China,Zimbabwe
+China,Brazil
+China,Brazil

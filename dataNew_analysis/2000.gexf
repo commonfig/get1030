@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-11-05">
+    <creator>NetworkX 2.8.7</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Singapore" label="Singapore" />
+      <node id="United States" label="United States" />
+      <node id="Malaysia" label="Malaysia" />
+      <node id="France" label="France" />
+      <node id="United Kingdom" label="United Kingdom" />
+      <node id="China" label="China" />
+      <node id="Canada" label="Canada" />
+      <node id="Mexico" label="Mexico" />
+      <node id="Thailand" label="Thailand" />
+      <node id="Australia" label="Australia" />
+      <node id="Indonesia" label="Indonesia" />
+      <node id="Argentina" label="Argentina" />
+      <node id="Netherlands" label="Netherlands" />
+      <node id="Germany" label="Germany" />
+      <node id="Belgium" label="Belgium" />
+      <node id="Italy" label="Italy" />
+      <node id="Ireland" label="Ireland" />
+      <node id="Peru" label="Peru" />
+      <node id="Japan" label="Japan" />
+      <node id="Zimbabwe" label="Zimbabwe" />
+      <node id="Brazil" label="Brazil" />
+    </nodes>
+    <edges>
+      <edge source="Singapore" target="United States" id="0" weight="9" />
+      <edge source="Singapore" target="Malaysia" id="1" weight="9" />
+      <edge source="Singapore" target="France" id="2" weight="7" />
+      <edge source="Singapore" target="United Kingdom" id="3" weight="7" />
+      <edge source="Singapore" target="China" id="4" weight="3" />
+      <edge source="United States" target="Canada" id="5" weight="110" />
+      <edge source="United States" target="Mexico" id="6" weight="53" />
+      <edge source="United States" target="France" id="7" weight="47" />
+      <edge source="United States" target="United Kingdom" id="8" weight="31" />
+      <edge source="United States" target="Thailand" id="9" weight="27" />
+      <edge source="United States" target="Malaysia" id="10" weight="5" />
+      <edge source="United States" target="China" id="11" weight="6" />
+      <edge source="Malaysia" target="Australia" id="12" weight="6" />
+      <edge source="Malaysia" target="Indonesia" id="13" weight="3" />
+      <edge source="Malaysia" target="Thailand" id="14" weight="3" />
+      <edge source="Malaysia" target="Argentina" id="15" weight="2" />
+      <edge source="France" target="Netherlands" id="16" weight="46" />
+      <edge source="France" target="Germany" id="17" weight="43" />
+      <edge source="France" target="Belgium" id="18" weight="37" />
+      <edge source="France" target="Italy" id="19" weight="23" />
+      <edge source="France" target="United Kingdom" id="20" weight="78" />
+      <edge source="United Kingdom" target="Ireland" id="21" weight="34" />
+      <edge source="United Kingdom" target="Netherlands" id="22" weight="34" />
+      <edge source="United Kingdom" target="Germany" id="23" weight="30" />
+      <edge source="United Kingdom" target="Italy" id="24" weight="28" />
+      <edge source="China" target="Peru" id="25" weight="10" />
+      <edge source="China" target="Japan" id="26" weight="3" />
+      <edge source="China" target="Zimbabwe" id="27" weight="3" />
+      <edge source="China" target="Brazil" id="28" weight="2" />
+    </edges>
+  </graph>
+</gexf>
